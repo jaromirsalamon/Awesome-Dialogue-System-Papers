@@ -1,4 +1,4 @@
-# Incredible Dialogue Systems Papers
+# Awesome Dialogue System Papers
 A curated list of incredible amount of publications related to Dialogue Systems especially Chatbots and Chit-chat Systems inspired by `awesome-machine-learning`.
 
 If you want to contribute to this list (please do), send me a pull request or contact me @jaromirsalamon. The preference is about open papers (publically available) with the link to the paper.
