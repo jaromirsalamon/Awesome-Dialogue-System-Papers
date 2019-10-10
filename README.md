@@ -31,8 +31,24 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Challenges or Competitions
 
 ### Alexa Prize
+[The Alexa Prize Challenges](https://developer.amazon.com/alexaprize/challenges/)
 
 #### Alexa Prize 2017
+* [Building CMU Magnus from User Feedback](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Magnus.pdf)
+* [RubyStar: A Non-Task-Oriented Mixture Model Dialog System]()
+* [Alquist: The Alexa Prize Socialbot](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Alquist.pdf)
+* [Emersonbot: Information-Focused Conversational AI Emory University at the Alexa Prize 2017 Challenge](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Emersonbot.pdf)
+* [Alana: Social Dialogue using an Ensemble Model and
+a Ranker trained on User Feedback](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Alana.pdf)
+* [Pixie: A Social Chatbot](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Pixie.pdf)
+* [A Two-Layer Dialogue Framework For Authoring Social Bots](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Wisemacaw.pdf)
+* [A Chatbot by Combining Finite State Machine, Information Retrieval, and Bot-Initiative Strategy](https://s3.amazonaws.com/alexaprize/2017/technical-article/chattychat.pdf)
+* [Eigen: A Step Towards Conversational AI](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Eigen.pdf)
+* [Slugbot: An Application of a Novel and Scalable Open Domain Socialbot Framework](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Slugbot.pdf)
+* [Edina: Building an Open Domain Socialbot with Self-dialogues](https://s3.amazonaws.com/alexaprize/2017/technical-article/edina.pdf)
+* [The Octopus Approach to the Alexa Competition: A Deep Ensemble-based Socialbot](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Mila.pdf)
+* [Roving Mind: a balancing act between open–domain and engaging dialogue systems](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Rovingmind.pdf)
+* [Sounding Board – University of Washington’s Alexa Prize Submission](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2017/Soundingboard.pdf)
 
 #### Alexa Prize 2018
 
@@ -78,6 +94,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Natural Language Generation (NLG)
 
 ### Research Papers
+* [Evaluating the state-of-the-art of End-to-End Natural Language Generation: The E2E NLG challenge (2020)](https://www.sciencedirect.com/science/article/pii/S0885230819300919)
+
 
 ### Lectures
 * [Statistical Natural Language Generation (2016)](https://www.cs.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Informatik/Dialog_Systems_and_Machine_Learning/Lectures_SDS/L7.pdf)
